@@ -1,0 +1,195 @@
+footer {
+    background-color: #F5F5F7;
+    height: auto;
+    
+}
+
+.footer-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+}
+
+.top-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 978px;
+    
+}
+
+.top p {
+    color: #676767;
+    font-size: 12.5px;
+    line-height: 15px;
+    letter-spacing: -0.3px;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.column-title {
+    display: flex;
+}
+
+.toggle-logo {
+    display: none;
+   
+    
+    
+}
+
+.link {
+    text-decoration: underline;
+    font-weight: 500;
+}
+
+.line {
+    width: 978px;
+    height: 0.5px;
+    background-color: #CACACA;
+    margin-top: 20px;
+}
+
+.line-2 {
+    display: none;
+    height: 0.5px;
+    background-color: #CACACA;
+}
+
+.line-3 {
+    width: 978px;
+    height: 0.5px;
+    background-color: #CACACA;
+    margin-top: 20px;
+}
+
+.all-links {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    width: 978px;
+}
+
+.footer-column p {
+    font-size: 12.5px;
+    font-weight: 500;
+    line-height: 13px;
+    letter-spacing: -0.3px;
+    margin-top: 20px;
+    margin-bottom: 12px;
+}
+
+
+ul {
+    list-style: none;
+    font-size: 12.5px;
+    padding-left: 0;
+    margin-top: 0;
+    
+}
+
+.row-divider {
+    padding-top: 8px;
+  
+}
+
+a {
+    color: #676767;
+    text-decoration: none;
+}
+
+li {
+    line-height: 15px;
+    margin-bottom: 10px;
+    letter-spacing: -0.3px;
+    
+}
+
+li:hover {
+    text-decoration: underline;
+}
+
+.tel {
+    color: #676767;
+    font-size: 12.5px;
+    line-height: 15px;
+    letter-spacing: -0.3px;
+    margin-top: 30px;
+    margin-bottom: 0;
+    width: 978px;
+}
+
+.blue-link {
+    text-decoration: underline;
+    color: #007AFF;
+}
+
+.ip {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 978px;
+    margin-top: 5px;
+    
+}
+
+.copyright-container {
+    order: 1;
+}
+
+.copyright {
+    color: #676767;
+    font-size: 12.5px;
+    line-height: 15px;
+    letter-spacing: -0.3px;
+
+    
+}
+
+.ip-middle {
+    font-size: 12.5px;
+    display: flex;
+    gap: 8px;
+
+    order: 2;
+}
+
+.legal-links {
+    color: #676767;
+    font-size: 12.5px;
+    line-height: 15px;
+    letter-spacing: -0.3px;
+    margin-top: 12.5px;
+}
+
+.legal-links:hover {
+    text-decoration: underline;
+}
+
+.link-div {
+    color: #676767;
+}
+
+.location-container {
+    order: 3;
+    
+}
+
+.location {
+    text-align: right;
+    color: #676767;
+    font-size: 12.5px;
+    line-height: 15px;
+    letter-spacing: -0.3px;
+    
+}
+
+.location:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+
+

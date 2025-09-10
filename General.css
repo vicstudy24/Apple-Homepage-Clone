@@ -1,0 +1,26 @@
+@font-face {
+    font-family: sf-pro-r;
+    src: url(SF-Pro-Display-Regular.otf);
+}
+
+@font-face {
+    font-family: sf-pro-m;
+    src: url(SF-Pro-Display-Medium.otf);
+}
+
+@font-face {
+    font-family: sf pro;
+    src: url(SF-Pro.ttf);
+}
+
+@font-face {
+    font-family: sf-pro-text;
+    src: url(SF-Pro-Text-Regular.otf);
+}
+
+body {
+    font-family: sf pro, Inter, Helvetica;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+}
